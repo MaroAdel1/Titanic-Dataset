@@ -21,4 +21,7 @@ It includes data exploration, feature engineering, and training classification a
 - XGBoost
 
 ---
-![Titanic Visualization](images/Titanic BI_page-0001.jpg)
+## 📷 Sample Visualization
+
+![Titanic Visualization](https://github.com/MaroAdel1/Titanic-Dataset/blob/main/images/titanic.png?raw=true)
+
