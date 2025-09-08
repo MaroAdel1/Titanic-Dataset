@@ -23,5 +23,5 @@ It includes data exploration, feature engineering, and training classification a
 ---
 ## 📷 Sample Visualization
 
-![Titanic Visualization](https://github.com/MaroAdel1/Titanic-Dataset/titanic.png?raw=true)
+![Titanic Visualization](https://github.com/MaroAdel1/blob/main/Titanic-Dataset/titanic.png?raw=true)
 
